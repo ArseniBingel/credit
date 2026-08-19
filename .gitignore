@@ -16,7 +16,7 @@ env/
 *.pt
 *.ckpt
 
-# Data (usually too big for git)
+# Data
 data/
 datasets/
 
